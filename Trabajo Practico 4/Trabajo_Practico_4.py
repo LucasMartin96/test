@@ -2,7 +2,7 @@ import pickle
 import random
 from Carga_Automatica import *
 
-
+ #queondera
 class Serie:
 
     def __init__(self, titulo, genero, idioma, temporadas, capitulos, duracion, ult_temporada, ult_capitulo):
